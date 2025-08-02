@@ -1,4 +1,4 @@
-🎬 YT Downloader - Simple Private YouTube Video Downloader
+🎬 YT Downloader - Simple Restricted YouTube Video Downloader
 
 📦 HOW TO USE:
 
