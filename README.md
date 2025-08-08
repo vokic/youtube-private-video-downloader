@@ -43,3 +43,9 @@ If nothing downloads, make sure the `cookies.txt` file is correct.
 Consider supporting the project and fueling future development:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vokic)
+
+<a href="https://www.buymeacoffee.com/vokic" target="_blank">
+  <img src="https://i.imgur.com/ulo2WMx.png" alt="Support me" width="200"/>
+</a>
+
+
