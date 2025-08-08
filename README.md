@@ -36,3 +36,10 @@
 
 💡 **TIP:**
 If nothing downloads, make sure the `cookies.txt` file is correct.
+
+
+🙏 **Did this tool save your day or spare you a headache?**
+
+Consider supporting the project and fueling future development:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vokic)
